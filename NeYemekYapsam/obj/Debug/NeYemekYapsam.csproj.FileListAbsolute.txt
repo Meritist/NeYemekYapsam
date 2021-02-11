@@ -1,0 +1,11 @@
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\bin\Debug\NeYemekYapsam.exe.config
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\bin\Debug\NeYemekYapsam.exe
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\bin\Debug\NeYemekYapsam.pdb
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.Properties.Resources.resources
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.csproj.GenerateResource.cache
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.csproj.CoreCompileInputs.cache
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.exe
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.pdb
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.Form1.resources
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.Form2.resources
+C:\Users\Merit\source\repos\NeYemekYapsam\NeYemekYapsam\obj\Debug\NeYemekYapsam.csprojAssemblyReference.cache
